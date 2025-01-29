@@ -32,9 +32,4 @@ php -S localhost:8000
 
 ## Hiring Links
 
-- [Python Developers](https://hng.tech/hire/python-developers)
-- [C# Developers](https://hng.tech/hire/csharp-developers)
-- [Go Developers](https://hng.tech/hire/golang-developers)
 - [PHP Developers](https://hng.tech/hire/php-developers)
-- [Java Developers](https://hng.tech/hire/java-developers)
-- [NodeJS Developers](https://hng.tech/hire/nodejs-developers)
