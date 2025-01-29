@@ -21,13 +21,13 @@ This is a simple public API for the HNG12 internship that returns:
 ## How to run locally
 
     ```bash
-        git clone https://github.com/tulbadex/hng12-task0.git
-        cd your-repo
+    git clone https://github.com/tulbadex/hng12-task0.git
+    cd your-repo
     ```
 
 ## Run a PHP development server
     ```bash
-        php -S localhost:8000
+    php -S localhost:8000
     ```
 
 ## Hiring Links
