@@ -1,0 +1,40 @@
+# HNG12 Public API
+
+This is a simple public API for the HNG12 internship that returns:
+- My registered email on the HNG12 Slack workspace.
+- The current date/time in ISO 8601 UTC format.
+- A link to this project's GitHub repository.
+
+## API Endpoint
+- **Base URL:** `https://your-deployed-api.com/`
+- **Method:** `GET`
+- **Response Format:** JSON
+
+### Example Response
+```json
+{
+  "email": "tulbadex@gmail.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "https://github.com/tulbadex/hng12-task0"
+}
+```
+## How to run locally
+
+    ```
+        git clone https://github.com/tulbadex/hng12-task0.git
+        cd your-repo
+    ```
+
+## Run a PHP development server
+    ```
+        php -S localhost:8000
+    ```
+
+## Hiring Links
+
+- [Python Developers](https://hng.tech/hire/python-developers)
+- [C# Developers](https://hng.tech/hire/csharp-developers)
+- [Go Developers](https://hng.tech/hire/golang-developers)
+- [PHP Developers](https://hng.tech/hire/php-developers)
+- [Java Developers](https://hng.tech/hire/java-developers)
+- [NodeJS Developers](https://hng.tech/hire/nodejs-developers)
