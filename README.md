@@ -6,7 +6,7 @@ This is a simple public API for the HNG12 internship that returns:
 - A link to this project's GitHub repository.
 
 ## API Endpoint
-- **Base URL:** `https://your-deployed-api.com/`
+- **Base URL:** `[Endpoint](https://hng12-task0-gyvjq8fp6vz.vercel.app)`
 - **Method:** `GET`
 - **Response Format:** JSON
 
